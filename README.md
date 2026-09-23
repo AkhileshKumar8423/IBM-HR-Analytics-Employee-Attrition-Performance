@@ -43,8 +43,6 @@ The Power BI project file is available in this repository:
 
 `IBM_HR_Analytics_Employee_Attrition_Performance.pbix`
 
-```
-
 ## 📈 Dashboard
 
 ### IBM HR ANALYTICS EMPLOYEE ATTRITION & PERFORMANCE
