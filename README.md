@@ -1,0 +1,52 @@
+# IBM HR Analytics — Employee Attrition & Performance
+
+## 📊 Project Overview
+
+This Power BI project analyzes employee attrition and performance using the IBM HR Analytics dataset.
+
+The dashboard provides insights into employee demographics, job roles, income, job satisfaction, work experience, and factors associated with employee attrition.
+
+## 🛠️ Tools Used
+
+* Power BI
+* DAX
+* Power Query
+* Data Visualization
+* Microsoft Excel / CSV Dataset
+
+## 📌 Key Analysis
+
+* Employee Attrition
+* Attrition by Department
+* Attrition by Job Role
+* Attrition by Gender
+* Attrition by Age Group
+* Monthly Income Analysis
+* Job Satisfaction
+* Years at Company
+* Job Level
+* Business Travel
+* Overtime
+* Employee Performance
+
+## 📈 Dashboard
+
+The Power BI dashboard presents interactive visualizations and KPIs to help understand employee attrition patterns and workforce characteristics.
+
+## 🎯 Project Objective
+
+The objective of this project is to use data analysis and visualization techniques to identify important HR patterns and provide a clear overview of employee attrition and workforce performance.
+
+## 📂 Project File
+
+The Power BI project file is available in this repository:
+
+`IBM_HR_Analytics_Employee_Attrition_Performance.pbix`
+
+## 👤 Author
+
+Akhilesh Kumar
+
+---
+
+**Power BI | Data Analytics | HR Analytics**
