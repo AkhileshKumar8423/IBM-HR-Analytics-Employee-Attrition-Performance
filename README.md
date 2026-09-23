@@ -43,19 +43,21 @@ The Power BI project file is available in this repository:
 
 `IBM_HR_Analytics_Employee_Attrition_Performance.pbix`
 
+```
+
 ## 📈 Dashboard
 
 ### IBM HR ANALYTICS EMPLOYEE ATTRITION & PERFORMANCE
 
-![IBM HR Analytics Employee Attrition & Performance](Dashboard-Page-1.jpg)
+![IBM HR Analytics Employee Attrition & Performance](IBM HR Analytics Employee Attrition & Performance.jpg)
 
 ### IBM HR ANALYTICS - EMPLOYEE DEMOGRAPHICS
 
-![IBM HR Analytics - Employee Demographics](Dashboard-Page-2.jpg)
+![IBM HR Analytics - Employee Demographics](IBM HR Analytics - Employee Demographics.jpg)
 
 ### IBM HR ANALYTICS - JOB & PERFORMANCE ANALYSIS
 
-![IBM HR Analytics - Job & Performance Analysis](Dashboard-Page-3.jpg)
+![IBM HR Analytics - Job & Performance Analysis](IBM HR Analytics - Job & Performance Analysis.jpg)
 
 
 ## 👤 Author
