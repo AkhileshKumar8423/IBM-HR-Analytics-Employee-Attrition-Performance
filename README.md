@@ -56,9 +56,7 @@ The Power BI project file is available in this repository:
 ![IBM HR Analytics - Job & Performance Analysis](IBM%20HR%20ANALYTICS%20-%20JOB%20%26%20PERFORMANCE%20ANALYSIS.JPG)
 
 ### IBM HR ANALYTICS - JOB & PERFORMANCE ANALYSIS
-
-![IBM HR Analytics - Job & Performance Analysis](Dashboard-Page-3.jpg)
-
+![IBM HR Analytics - Job & Performance Analysis](IBM%20HR%20ANALYTICS%20-%20JOB%20%26%20PERFORMANCE%20ANALYSIS.JPG)
 
 ## 👤 Author
 
